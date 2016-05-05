@@ -1,0 +1,2 @@
+test the "git rm ..." function.
+V1.0
